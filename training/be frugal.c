@@ -1,3 +1,20 @@
+
+/*ip=1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+10
+9*/
+/*o/p
+e1 index - 9
+e2 index - 8
+*/
 #include <stdio.h>
 
 #define ARRAY_SIZE 10
