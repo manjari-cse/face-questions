@@ -18,7 +18,7 @@ void main()
 	{count=0;
 	    for(j=0;j<n;j++)
 	    {
-	        if(a[i]%i==0)
+	        if(a[j]%i==0)
 	        {
 	            count++;
 	        }
